@@ -1,0 +1,4 @@
+interface:
+  display_name: "阶段性策划案"
+  short_description: "把零散项目材料组织成可呈现的阶段性策划案"
+  default_prompt: "Use $stage-proposal-planner to turn my project materials into a stage proposal for an internal or external audience, then recommend whether the output should be a document, report, or PPT."
